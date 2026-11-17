@@ -76,6 +76,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="1913" height="1130" alt="image" src="https://github.com/user-attachments/assets/dcd4e401-13b0-4e81-9b06-934c42539eb7" />
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
